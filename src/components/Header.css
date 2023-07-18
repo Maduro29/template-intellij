@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+a {
+    height: 100%;
+    width: 72px;
+}
+
+a.header_link:hover {
+    opacity: 0.8;
+}
+
+.header_box {
+    background-color: rgb(39,40,44);
+    height: 72px;
+    
+    
+}

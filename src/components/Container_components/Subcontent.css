@@ -1,0 +1,20 @@
+.Subcontent_link {
+    color: #fff;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.Subcontent_link:hover {
+    text-decoration: underline;
+}
+
+.Subcontent_box {
+    height: 124px;
+    background-color: rgb(23, 104, 224);
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

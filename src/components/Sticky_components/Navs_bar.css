@@ -1,0 +1,58 @@
+.sticky_navs_item {
+    min-width: 40px;
+    padding: 10px;
+    color: rgb(123,118,115);
+}
+
+.sticky_navs_item:hover, .sticky_navs_item a:hover {
+    color: rgb(54, 52, 51);
+    cursor: pointer;
+}
+
+.sticky_navs_item a {
+    text-decoration: none;
+    color: rgb(123,118,115);
+}
+
+.login_link {
+    border-radius: 20px;
+    width: 80px;
+    height: 40px;
+    border: none;
+    background-color: rgb(19, 93, 196);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.register_link {
+    border-radius: 20px;
+    width: 80px;
+    height: 40px;
+    border: 2px solid #ccc;
+    background-color: #fff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_link:hover {
+    opacity: 0.9;
+}
+
+.register_link:hover {
+    opacity: 0.9;
+    border: 2px solid #888;
+}
+
+.login_link--span {
+    color: #fff;
+}
+
+.sticky_navs_item:last-child {
+    height: 72px;
+    display: flex;
+    align-items: center;
+}

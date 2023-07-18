@@ -1,0 +1,10 @@
+.introduction_box {
+    background-image: linear-gradient(to bottom right, #1b17e6, #d41d41);
+    height: 684px;
+}
+
+.introduction_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}

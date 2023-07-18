@@ -1,0 +1,16 @@
+span {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.sticky_logo {
+    width: auto;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+}
+
+.sticky_logo:hover {
+    cursor: pointer;
+}
